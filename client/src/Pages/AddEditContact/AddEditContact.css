@@ -1,0 +1,23 @@
+.AddEditContact{
+    width: 500px;
+    height: 350px;
+    /* background-color: lightgoldenrodyellow; */
+    background: url(https://html.sammy-codes.com/images/background.jpg) 
+    no-repeat center fixed;
+  /* background-size: cover; */
+    display: flex;
+    justify-content: center;
+    margin: 100px auto ;
+    padding: 30px;
+    
+}
+.inputname{
+    display: flex !important ;
+    flex-direction: row;
+}
+.add_btn{
+    width: 50px;
+}
+.edit_btn{
+    width: 50px;
+}
